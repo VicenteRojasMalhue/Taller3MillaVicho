@@ -1,7 +1,10 @@
 package app;
 
+import logica.Menu;
+
 public class Main {
 	public static void main(String[] args) {
-	System.out.println("ucna");
+		Menu menuUcn = new Menu();
+        menuUcn.iniciar();
 	}
 }

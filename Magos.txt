@@ -1,0 +1,15 @@
+Pruno;Sofoco|Disparo Lodo|Pirotecnia|Vórtice Ígneo
+Ferran;Salmuera|Envite Igneo|Disparo Lodo|Poder Pasado|Rueda Fuego|Hidroariete|Burbuja
+Mul;Gigadrenado|Rayo Burbuja|Danza Lluvia|Pistola Agua
+Branco;Arraigo|Silvato|Danza Lluvia
+MartinNegro;Acua Aro|Tumba Rocas|Polen Somnífero|Escaldar|Disparo Lodo|Cascada|Pirotecnia
+EmaArdillaRabiosa;Origen Pulso|Cascada|Llamarada Azul
+Danini;Pedrada|Envite Igneo|Hierba Lazo|Surf
+Maxi;Explosión Ígnea|Envite Igneo|Agua Lodosa
+xupalo;Disparo Lodo|Salmuera|Colmillo Igneo|Excavar|Calcinación
+Estefania;Hoja Afilada|Burbuja|Acua Jet|Energibola|Agua Lodosa|Llamarada Azul
+Churrasquita;Origen Pulso|Silvato|Hoja Mágica|Colmillo Igneo
+Clapt;Pulso de Agua|Giro Fuego|Pedrada
+Nilo;Patada Ígnea|Acua Jet|Huesomerang|Clorofila|Fogonazo|Polen Somnífero|Torbellino
+Papulini;Absorber|Sofoco
+casa;
