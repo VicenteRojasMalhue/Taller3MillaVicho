@@ -1,4 +1,6 @@
 package modelo;
+//Millaray Belen Zepeda Salfate| ICCI | 22.063.994-0
+//Vicente Ignacio Rojas Malhue | ICCI| 21.894.251-2
 
 public class HechizoAgua extends Hechizo {
     private int cantidadHeal;
